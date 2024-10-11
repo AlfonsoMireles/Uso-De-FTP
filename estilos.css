@@ -1,0 +1,17 @@
+.fondo1 {
+    background: linear-gradient(rgb(255, 0, 255),rgb(0, 255, 0));
+
+}
+
+.fondo2 {
+    background: linear-gradient(lime, cyan);
+
+}
+
+.texto1 {
+    text-align: center;
+    border: 3px solid black;
+    padding: 15px;
+    margin: 20px 0;
+
+}
